@@ -2,7 +2,7 @@
 
 **For this challenge, you need to implement a program that takes a position on Earth and find 6 other points on land that are the farthest away from each others.** In order to honor the memory of Akira Toriyama who created Dragon Ball, the idea of this week's challenge is to figure out how to hide the Dragon Balls on Earth so that they are the hardest to find!
 
-<img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/assets/197597/07a512cf-e9e1-4671-8f85-79985902bb43">
+<img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/assets/197597/9704c574-8ff8-4ee0-958c-691ebb836626">
 
 
 ### Prizes:
