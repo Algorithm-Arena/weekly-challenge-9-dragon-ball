@@ -4,6 +4,39 @@
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/assets/197597/9704c574-8ff8-4ee0-958c-691ebb836626">
 
+### Winners:
+
+* In first place, @mhelvens wins $75 with "Dragonball Evolution". The dragonballs hovering over the earth makes me want to take a cloud and go collect them! https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/issues/3
+
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/assets/197597/63fc1c53-2074-4679-83a3-c13fee235598
+
+
+
+* In second place, @breytenlybaert wins $50 with "Projections & Tracking". I never realized that there were so many ways to project the earth on a 2d screen. https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/issues/2
+
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/assets/197597/29a1a00e-9324-4b8f-a0c1-0b28f9f197d6
+
+
+
+* In third place, @evgenyvinnik wins $25 with "Placement Tool". I really like the manual aspect of the process where you have to click to optimize the placement. https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/issues/1
+
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/assets/197597/9943d61c-bae1-45f3-8d96-c4add32cf067
+
+
+
+* Even though it missed the deadline, @kevinjzhang and @seanyang0813 used importance sampling with Von Mises-Fisher distribution to place the balls which is really interesting. https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/issues/4
+
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/assets/197597/6f597e36-f36d-4d30-9d06-2e0929ab5ecb
+
+
 
 ### Prizes:
 * Winner: $75
